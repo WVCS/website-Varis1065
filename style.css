@@ -3,17 +3,21 @@ color: cyan;
 text-decoration: overline underline 2.5px cyan;
 font-family: "Papyrus", Fantasy;
 font-size: 40px;
-    }
-    body {
-      background-color: black;
-      text-align: center;
-    }
+}
+body{
+  background-color: black;
+  text-align: center;
+}
 img{
   width: 400px;
   border: dotted cyan 10 px;
   border-radius: 30px;
 }
-
+img:hover{
+  width: 500px;
+  border: dotted cyan 10 px;
+  border-radius: 1000px;
+}
   h3:hover {
     color: yellow;
 }
