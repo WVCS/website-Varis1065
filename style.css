@@ -11,7 +11,7 @@ body{
 img{
   width: 800px;
   border: dotted cyan 10 px;
-  border-radius: 30px;
+  border-radius: 100px;
 }
 img:hover{
   width: 900px;
