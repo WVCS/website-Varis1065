@@ -45,3 +45,16 @@ li a:hover {
   font-size: 30px;
   color: yellow;
 }
+
+body{
+  background-color: black;
+}
+ h3 {
+color: yellow;
+text-decoration: overline underline 2.5px cyan;
+font-family: "Papyrus", Fantasy;
+font-size: 40px;
+}
+  h3:hover {
+    color: cyan;
+}
