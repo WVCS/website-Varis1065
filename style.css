@@ -21,3 +21,27 @@ img:hover{
   h3:hover {
     color: yellow;
 }
+nav{
+  list-style-type: none;
+  background-color: black;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+li a {
+  text-decoration: none;
+   text-shadow: 2px 4px 7px cyan;
+  font-family: "Papyrus", Fantasy;
+  font-size: 25px;
+  color: cyan;
+  display: block;
+  float: left;
+  padding: 15px 50px;
+}
+
+li a:hover {
+  font-size: 30px;
+  color: yellow;
+}
