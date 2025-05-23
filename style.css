@@ -1,22 +1,16 @@
+
+body{
+  background-color: black;
+}
  h3 {
-color: cyan;
+color: yellow;
 text-decoration: overline underline 2.5px cyan;
 font-family: "Papyrus", Fantasy;
 font-size: 40px;
 }
-body{
-  background-color: black;
-  text-align: center;
+  h3:hover {
+    color: cyan;
 }
-img{
-  width: 800px;
-  border: dotted cyan 10 px;
-  border-radius: 100px;
-}
-img:hover{
-  width: 900px;
-  border: dotted cyan 10 px;
-  border-radius: 1000px;
 }
   h3:hover {
     color: yellow;
