@@ -7,10 +7,7 @@ color: yellow;
 text-decoration: overline underline 2.5px cyan;
 font-family: "Papyrus", Fantasy;
 font-size: 40px;
-}
-  h3:hover {
-    color: cyan;
-}
+
 }
   h3:hover {
     color: yellow;
